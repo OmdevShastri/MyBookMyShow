@@ -1,0 +1,1 @@
+This package contains all the business logic which are used by the controller package and also the talks to DAO class for the data transmission
