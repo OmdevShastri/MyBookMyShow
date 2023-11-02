@@ -1,1 +1,0 @@
-This package contains all the API's and calls on Services
