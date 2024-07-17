@@ -19,6 +19,4 @@ public class MovieService {
         return shows;
     }
 
-    // Other methods for movie-related functionalities can be defined here
-
 }
