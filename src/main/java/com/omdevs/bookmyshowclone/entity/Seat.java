@@ -1,5 +1,8 @@
 package com.omdevs.bookmyshowclone.entity;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Seat {
     private int seatNo;
     private String seatName;
